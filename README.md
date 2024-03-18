@@ -5,7 +5,7 @@ This is a simple Tic Tac Toe game built using React. It allows two players to ta
 The restart button restarts the game.
 
 ## Live View
-[Play Here]("https://hidoreen.github.io/tic-tac-toe/")
+[Play Here](https://hidoreen.github.io/tic-tac-toe/)
 
 ## Table of Contents
 
