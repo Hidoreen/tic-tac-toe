@@ -9,11 +9,6 @@ The restart button restarts the game.
 
 ## Table of Contents
 
-- [React Tic Tac Toe](#react-tic-tac-toe)
-  - [Live View](#live-view)
-  - [Table of Contents](#table-of-contents)
-  - [Features](#features)
-
 ## Features
 
 - Two players take turns marking spaces on a 3x3 grid.
